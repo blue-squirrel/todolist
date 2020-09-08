@@ -20,7 +20,7 @@ class Todolist extends Component{
                     <button>提交</button>
                 </div>
                 <ul>
-                    <li>学英语</li>
+                    <li>学习英语</li>
                     <li>学react</li>
                 </ul>
             </Fragment>
