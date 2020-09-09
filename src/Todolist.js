@@ -15,6 +15,10 @@ class Todolist extends Component{
         this.handleItemDelete=this.handleItemDelete.bind(this)
     }
 
+
+    componentWillMount(){
+        console.log('compone')
+    }
     render(){
         return (
             <Fragment>
